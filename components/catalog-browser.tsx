@@ -119,7 +119,7 @@ export function CatalogBrowser({ catalog }: { catalog: Catalog }) {
               ref={searchRef}
               value={draft}
               onChange={(e) => setDraft(e.target.value)}
-              placeholder="Try “dremel”, “soldering”, or “cut metal”…"
+              placeholder="Try “tool”, “soldering”, or “cut metal”…"
               maxLength={200}
               type="search"
               autoComplete="off"
@@ -131,7 +131,7 @@ export function CatalogBrowser({ catalog }: { catalog: Catalog }) {
         </form>
         <div className="search-bottom">
           <span>Try:</span>
-          {["dremel", "soldering", "metal"].map((q) => (
+          {["tool", "soldering", "cut fabric"].map((q) => (
             <button
               key={q}
               className="text-button"

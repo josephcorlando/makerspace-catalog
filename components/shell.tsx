@@ -27,6 +27,7 @@ export function Shell({
           Browse all items
         </Link>
       </header>
+
       <div className="desktop">
         <div className="window">
           <div className="title-bar">
@@ -58,6 +59,10 @@ export function Shell({
               Preview of the imported inventory · database not connected
             </div>
           )}
+          <div className="preview-note">
+            Unofficial HiveLabs tool directory. Not affiliated with, endorsed
+            by, or associated with HiveLabs.
+          </div>
           <main id="main">{children}</main>
           <footer className="status-bar">
             <span>HIVELAB TOOL DIRECTORY</span>
