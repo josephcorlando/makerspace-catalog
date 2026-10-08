@@ -1,0 +1,5359 @@
+{
+  "items": [
+    {
+      "id": "d1a1110a-4c9b-5b2b-b0a4-63264452b0b3",
+      "slug": "itech-rfa250-reflow-oven",
+      "name": "Reflow Oven",
+      "brand": "iTECH",
+      "model": "RF‑A250",
+      "kind": "tool",
+      "typeKey": "reflow-oven",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          1
+        ],
+        "sourceLabel": [
+          "Reflow Oven",
+          "iTECH RF‑A250"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "61e30154-4a97-53c7-8178-8069ecb9aae6",
+      "slug": "sy3040h-solder-paste-stencil-printer",
+      "name": "Solder Paste Stencil Printer",
+      "brand": null,
+      "model": "SY3040H",
+      "kind": "tool",
+      "typeKey": "stencil-printer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          2
+        ],
+        "sourceLabel": [
+          "Solder Paste Stencil Printer",
+          "SY3040H"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "36b27d30-11d6-5986-9d13-2eb640c63807",
+      "slug": "glitter-801-battery-spot-welder",
+      "name": "Battery Spot Welder",
+      "brand": "Glitter",
+      "model": "801",
+      "kind": "tool",
+      "typeKey": "spot-welder",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "welding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          3
+        ],
+        "sourceLabel": [
+          "Battery Spot Welder",
+          "Glitter 801"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "38f955cc-79ee-56e4-86b4-1e18cb93e5bc",
+      "slug": "black-decker-toaster-oven",
+      "name": "Toaster Oven",
+      "brand": "Black+Decker",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "toaster-oven",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "heating"
+      ],
+      "metadata": {
+        "sourceRows": [
+          4
+        ],
+        "sourceLabel": [
+          "Toaster Oven",
+          "Black + Decker"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "5b3169b5-08a4-5f57-8d6b-663d0fcc374c",
+      "slug": "creality-k1-max-3d-printer",
+      "name": "3D Printer",
+      "brand": "Creality",
+      "model": "K1 Max",
+      "kind": "tool",
+      "typeKey": "fdm-printer",
+      "description": null,
+      "aliases": [
+        "3d printer",
+        "filament printer",
+        "3d printing"
+      ],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "3d-printing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          5
+        ],
+        "sourceLabel": [
+          "3D Printer",
+          "Creality K1 Max"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c21583f6-8c19-5c83-a3d9-ef9db45b4f2f",
+      "slug": "creality-k1-3d-printer",
+      "name": "3D Printer",
+      "brand": "Creality",
+      "model": "K1",
+      "kind": "tool",
+      "typeKey": "fdm-printer",
+      "description": null,
+      "aliases": [
+        "3d printer",
+        "filament printer",
+        "3d printing"
+      ],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "3d-printing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          6
+        ],
+        "sourceLabel": [
+          "3D Printer",
+          "Creality K1"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "bf9bb8f0-8039-5a25-854a-03b4fd4f8a2b",
+      "slug": "bambu-lab-3d-printer",
+      "name": "3D Printer",
+      "brand": "Bambu Lab",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "fdm-printer",
+      "description": "The exact printer model has not been recorded.",
+      "aliases": [
+        "3d printer",
+        "filament printer",
+        "3d printing"
+      ],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "3d-printing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          7
+        ],
+        "sourceLabel": [
+          "3D Printer",
+          "Bambu Lab"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "800d89ab-e1d5-5735-8b06-d26deeb58295",
+      "slug": "anycubic-resin-3d-printer",
+      "name": "Resin 3D Printer",
+      "brand": "Anycubic",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "resin-printer",
+      "description": "The exact printer model has not been recorded.",
+      "aliases": [],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "resin"
+      ],
+      "processes": [
+        "3d-printing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          8
+        ],
+        "sourceLabel": [
+          "Resin 3D Printer",
+          "Anycubic"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a37c74c6-4466-5c8d-b033-002fe35430a8",
+      "slug": "anycubic-wash-cure-3-plus-resin-wash-cure-station",
+      "name": "Resin Wash & Cure Station",
+      "brand": "Anycubic",
+      "model": "Wash & Cure 3 Plus",
+      "kind": "accessory",
+      "typeKey": "wash-cure-station",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "resin"
+      ],
+      "processes": [
+        "washing",
+        "curing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          9
+        ],
+        "sourceLabel": [
+          "Resin Wash & Cure Station",
+          "Anycubic Wash & Cure 3 Plus"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6f430c07-7508-5f90-b1fe-e75c0e519089",
+      "slug": "creality-space-pi-filament-dryer",
+      "name": "Filament Dryer",
+      "brand": "Creality",
+      "model": "Space Pi",
+      "kind": "accessory",
+      "typeKey": "filament-dryer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "drying"
+      ],
+      "metadata": {
+        "sourceRows": [
+          10
+        ],
+        "sourceLabel": [
+          "Filament Dryer",
+          "Creality Space Pi"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6255d6e5-1d19-5d79-9b83-6d58b8770bba",
+      "slug": "mayku-multiplier-pressure-former",
+      "name": "Pressure Former",
+      "brand": "Mayku",
+      "model": "Multiplier",
+      "kind": "tool",
+      "typeKey": "pressure-former",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "3d-printing"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "forming"
+      ],
+      "metadata": {
+        "sourceRows": [
+          11
+        ],
+        "sourceLabel": [
+          "Pressure Former",
+          "Mayku Multiplier"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9048a4de-7f7b-5c29-a83c-b8f54014c70f",
+      "slug": "cricut-maker-4-cutting-machine",
+      "name": "Cutting Machine",
+      "brand": "Cricut",
+      "model": "Maker 4",
+      "kind": "tool",
+      "typeKey": "cutting-machine",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "textiles"
+      ],
+      "materials": [
+        "paper",
+        "fabric"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          12
+        ],
+        "sourceLabel": [
+          "Cutting Machine",
+          "Cricut Maker 4"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "f449516a-0cb5-58c5-b1b4-c2427e12bc9f",
+      "slug": "janome-new-home-sewing-machine",
+      "name": "Sewing Machine",
+      "brand": "Janome",
+      "model": "New Home",
+      "kind": "tool",
+      "typeKey": "sewing-machine",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "textiles"
+      ],
+      "materials": [
+        "fabric"
+      ],
+      "processes": [
+        "sewing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          13
+        ],
+        "sourceLabel": [
+          "Sewing Machine",
+          "Janome New Home"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "484a5870-0a7d-5f1c-adff-b858ad9d9fa6",
+      "slug": "black-decker-digital-advantage-steam-iron",
+      "name": "Steam Iron",
+      "brand": "Black+Decker",
+      "model": "Digital Advantage",
+      "kind": "tool",
+      "typeKey": "iron",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "textiles"
+      ],
+      "materials": [
+        "fabric"
+      ],
+      "processes": [
+        "pressing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          14
+        ],
+        "sourceLabel": [
+          "Steam Iron",
+          "Black+Decker Digital Advantage"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fb6f0eb2-9f0d-5741-a639-5791f282b544",
+      "slug": "conestoga-works-lichtenberg-figure-wood-burner-ii-lichtenberg-wood-burner",
+      "name": "Lichtenberg Wood Burner",
+      "brand": "Conestoga Works",
+      "model": "Lichtenberg Figure Wood Burner II",
+      "kind": "tool",
+      "typeKey": "wood-burner",
+      "description": "High-voltage equipment. Contact makerspace staff about access and safety requirements.",
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "wood-burning"
+      ],
+      "metadata": {
+        "sourceRows": [
+          15
+        ],
+        "sourceLabel": [
+          "Lichtenberg Wood Burner",
+          "Conestoga Works Lichtenberg Figure Wood Burner II"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6f9db59b-6629-5e2f-ada0-4bbb5bdab666",
+      "slug": "wen-12-variable-speed-drill-press",
+      "name": "Drill Press",
+      "brand": "WEN",
+      "model": "12\" Variable Speed",
+      "kind": "tool",
+      "typeKey": "drill-press",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          16
+        ],
+        "sourceLabel": [
+          "Drill Press",
+          "WEN 12\" Variable Speed"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "7d6a389f-5f43-575d-b3a9-ca8694a55fdb",
+      "slug": "bondhus-thandle-torx-set-t9t40",
+      "name": "T‑Handle Torx Set (T9–T40)",
+      "brand": "Bondhus",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "torx-key",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          17
+        ],
+        "sourceLabel": [
+          "T‑Handle Torx Set (T9–T40)",
+          "Bondhus"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "646e6c79-55c3-5c22-8518-3f9c88fb8f1f",
+      "slug": "bondhus-thandle-hex-set-inch",
+      "name": "T‑Handle Hex Set (Inch)",
+      "brand": "Bondhus",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hex-key",
+      "description": null,
+      "aliases": [
+        "allen key",
+        "allen wrench",
+        "hex wrench"
+      ],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          18
+        ],
+        "sourceLabel": [
+          "T‑Handle Hex Set (Inch)",
+          "Bondhus"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "32f15792-2ce5-536f-866e-9ab852ca9c64",
+      "slug": "bondhus-thandle-hex-set-metric",
+      "name": "T‑Handle Hex Set (Metric)",
+      "brand": "Bondhus",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hex-key",
+      "description": null,
+      "aliases": [
+        "allen key",
+        "allen wrench",
+        "hex wrench"
+      ],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          19
+        ],
+        "sourceLabel": [
+          "T‑Handle Hex Set (Metric)",
+          "Bondhus"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "1f557f1d-1748-5775-ad49-255359bba0a9",
+      "slug": "ballpeen-hammer",
+      "name": "Ball‑Peen Hammer",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hammer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "metalworking"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "forming"
+      ],
+      "metadata": {
+        "sourceRows": [
+          20
+        ],
+        "sourceLabel": [
+          "Ball‑Peen Hammer",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "7ed7a4c7-18f3-5861-95bc-68fa6c0c60c9",
+      "slug": "crosspeen-hammer",
+      "name": "Cross‑Peen Hammer",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hammer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "metalworking"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "forming"
+      ],
+      "metadata": {
+        "sourceRows": [
+          21
+        ],
+        "sourceLabel": [
+          "Cross‑Peen Hammer",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "02d23587-cacb-5168-94d0-4ad9dafe9170",
+      "slug": "rubber-mallet",
+      "name": "Rubber Mallet",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "mallet",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          22
+        ],
+        "sourceLabel": [
+          "Rubber Mallet",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "05cd7df5-2c9d-5ca6-8b6c-e1c5307d5708",
+      "slug": "rigol-dho804-oscilloscope",
+      "name": "Oscilloscope",
+      "brand": "Rigol",
+      "model": "DHO804",
+      "kind": "tool",
+      "typeKey": "oscilloscope",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing",
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          23
+        ],
+        "sourceLabel": [
+          "Oscilloscope",
+          "Rigol DHO804"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fca26c3e-83e1-5870-9723-7c5b5c0b5b1c",
+      "slug": "kungber-bench-power-supply",
+      "name": "Bench Power Supply",
+      "brand": "Kungber",
+      "model": null,
+      "kind": "utility",
+      "typeKey": "power-supply",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "powering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          24
+        ],
+        "sourceLabel": [
+          "Bench Power Supply",
+          "Kungber"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "04514233-ee27-5179-9aaa-243b577b3f88",
+      "slug": "elikliv-7-lcd-digital-microscope-digital-microscope",
+      "name": "Digital Microscope",
+      "brand": "Elikliv",
+      "model": "7\" LCD Digital Microscope",
+      "kind": "tool",
+      "typeKey": "microscope",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "inspection"
+      ],
+      "metadata": {
+        "sourceRows": [
+          25
+        ],
+        "sourceLabel": [
+          "Digital Microscope",
+          "Elikliv 7\" LCD Digital Microscope"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "0ded0979-696a-51c9-bce5-a117daeb0409",
+      "slug": "sensepeek-pcbite-pcb-probing-station",
+      "name": "PCB Probing Station",
+      "brand": "SensePeek",
+      "model": "PCBite",
+      "kind": "fixture",
+      "typeKey": "probing-station",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          26
+        ],
+        "sourceLabel": [
+          "PCB Probing Station",
+          "SensePeek PCBite"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "0b6316aa-6d3e-52f1-a951-8ddbbf89cc9a",
+      "slug": "weller-wlc100-soldering-station",
+      "name": "Soldering Station",
+      "brand": "Weller",
+      "model": "WLC100",
+      "kind": "tool",
+      "typeKey": "soldering-station",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          27
+        ],
+        "sourceLabel": [
+          "Soldering Station",
+          "Weller WLC100, Bakon"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "39a12182-a256-5a5e-a226-84849270dc5a",
+      "slug": "bakon-soldering-station",
+      "name": "Soldering Station",
+      "brand": "Bakon",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "soldering-station",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          27
+        ],
+        "sourceLabel": [
+          "Soldering Station",
+          "Weller WLC100, Bakon"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "23488e1d-8907-5479-ba4f-ca2a790b20d8",
+      "slug": "quadhands-helping-hands",
+      "name": "Helping Hands",
+      "brand": "QuadHands",
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "helping-hands",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "holding",
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          28
+        ],
+        "sourceLabel": [
+          "Helping Hands",
+          "QuadHands"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "cadb95e5-321a-58fc-891a-37bccd3b8d6b",
+      "slug": "toolbud-fume-extractor",
+      "name": "Fume Extractor",
+      "brand": "ToolBud",
+      "model": null,
+      "kind": "safety",
+      "typeKey": "fume-extractor",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          29
+        ],
+        "sourceLabel": [
+          "Fume Extractor",
+          "ToolBud"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "7010938f-7d87-5c80-9f47-b0eaa00e6a39",
+      "slug": "silicone-soldering-mat",
+      "name": "Silicone Soldering Mat",
+      "brand": null,
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "soldering-mat",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          30
+        ],
+        "sourceLabel": [
+          "Silicone Soldering Mat",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a71c2d80-2b78-54a0-89a2-7059b9773255",
+      "slug": "elenco-analog-multimeter",
+      "name": "Analog Multimeter",
+      "brand": "Elenco",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "multimeter",
+      "description": null,
+      "aliases": [
+        "multitester",
+        "voltmeter"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing",
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          31
+        ],
+        "sourceLabel": [
+          "Analog Multimeter",
+          "Elenco"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "15bb95fa-5144-57da-a6a9-c780d147b724",
+      "slug": "kobalt-digital-multimeter",
+      "name": "Digital Multimeter",
+      "brand": "Kobalt",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "multimeter",
+      "description": null,
+      "aliases": [
+        "multitester",
+        "voltmeter"
+      ],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing",
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          32
+        ],
+        "sourceLabel": [
+          "Digital Multimeter",
+          "Kobalt"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "1aa46069-d4d4-54c6-8d83-687b796cb383",
+      "slug": "fnirsi-pocket-oscilloscope",
+      "name": "Pocket Oscilloscope",
+      "brand": "FNIRSI",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "oscilloscope",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing",
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          33
+        ],
+        "sourceLabel": [
+          "Pocket Oscilloscope",
+          "FNIRSI"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "447ff0c2-bee3-5cef-84a6-956cf9cca364",
+      "slug": "craftsman-v20-cordless-drill-driver",
+      "name": "Cordless Drill/Driver",
+      "brand": "Craftsman",
+      "model": "V20",
+      "kind": "tool",
+      "typeKey": "drill-driver",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "drilling",
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          34
+        ],
+        "sourceLabel": [
+          "Cordless Drill/Driver",
+          "Craftsman V20"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d8b7e123-360c-5ade-bc92-a802f4d282b7",
+      "slug": "craftsman-cordless-screwdriver",
+      "name": "Cordless Screwdriver",
+      "brand": "Craftsman",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "screwdriver",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          35
+        ],
+        "sourceLabel": [
+          "Cordless Screwdriver",
+          "Craftsman"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "28b495f7-1956-5474-a5fd-d44755a56732",
+      "slug": "metabo-hpt-41-2-angle-grinder",
+      "name": "Angle Grinder",
+      "brand": "Metabo HPT",
+      "model": "4‑1/2\"",
+      "kind": "tool",
+      "typeKey": "angle-grinder",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [],
+      "categories": [
+        "metalworking"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "grinding",
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          36
+        ],
+        "sourceLabel": [
+          "Angle Grinder",
+          "Metabo HPT 4‑1/2\""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "3e240b59-c6cc-5fb7-8b29-616910e9f0f4",
+      "slug": "hyper-tough-trim-router",
+      "name": "Trim Router",
+      "brand": "Hyper Tough",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "router",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "routing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          37
+        ],
+        "sourceLabel": [
+          "Trim Router",
+          "Hyper Tough"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "dd77ec81-9e09-58b7-9018-72885ce86a25",
+      "slug": "dremel-rotary-tool-kit",
+      "name": "Rotary Tool Kit",
+      "brand": "Dremel",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "rotary-tool",
+      "description": "Listed as a Dremel tool kit. The model and kit contents have not been recorded.",
+      "aliases": [
+        "dremel",
+        "rotary tool"
+      ],
+      "categories": [
+        "woodworking",
+        "metalworking",
+        "crafting"
+      ],
+      "materials": [
+        "wood",
+        "metal",
+        "plastic"
+      ],
+      "processes": [
+        "cutting",
+        "sanding",
+        "grinding",
+        "polishing",
+        "engraving"
+      ],
+      "metadata": {
+        "sourceRows": [
+          38
+        ],
+        "sourceLabel": [
+          "Rotary Tool Kit",
+          "Dremel"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "559126cb-51db-512f-a5ad-60373477724b",
+      "slug": "electric-air-blower-duster",
+      "name": "Electric Air Blower / Duster",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "air-duster",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "cleaning"
+      ],
+      "metadata": {
+        "sourceRows": [
+          39
+        ],
+        "sourceLabel": [
+          "Electric Air Blower / Duster",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b2d1d8fa-b2d9-5477-b752-1f05b42a5fea",
+      "slug": "digital-caliper",
+      "name": "Digital Caliper",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "caliper",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "metalworking"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          40
+        ],
+        "sourceLabel": [
+          "Digital Caliper",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b0c4467a-fc6b-5843-9ef8-e949ccf4faca",
+      "slug": "wire-stripper",
+      "name": "Wire Stripper",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "wire-stripper",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "stripping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          41
+        ],
+        "sourceLabel": [
+          "Wire Stripper",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9e09a7ec-3eae-5691-9339-2dde058f6156",
+      "slug": "flush-cutters",
+      "name": "Flush Cutters",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "flush-cutter",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          42
+        ],
+        "sourceLabel": [
+          "Flush Cutters",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "15acf969-d18d-5980-96ec-b5490f2917bc",
+      "slug": "putty-knife",
+      "name": "Putty Knife",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "putty-knife",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "spreading"
+      ],
+      "metadata": {
+        "sourceRows": [
+          43
+        ],
+        "sourceLabel": [
+          "Putty Knife",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "ee906de6-cbe3-5ab4-a86f-d4fdf1ca4620",
+      "slug": "xacto-basic-hobby-knife-set",
+      "name": "Basic/Hobby Knife Set",
+      "brand": "X‑Acto",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hobby-knife",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper",
+        "foam"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          44
+        ],
+        "sourceLabel": [
+          "Basic/Hobby Knife Set",
+          "X‑Acto"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "faaf3ae4-106e-5113-b570-03b2111ddf98",
+      "slug": "klein-tools-fish-tape",
+      "name": "Fish Tape",
+      "brand": "Klein Tools",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "fish-tape",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "wire-routing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          45
+        ],
+        "sourceLabel": [
+          "Fish Tape",
+          "Klein Tools"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "aa9556c7-633d-51ba-b00a-947cf78b36ff",
+      "slug": "craftsman-box-level",
+      "name": "Box Level",
+      "brand": "Craftsman",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "level",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          46
+        ],
+        "sourceLabel": [
+          "Box Level",
+          "Craftsman"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c7fe72cb-c83e-58db-8bdd-5d3762acffeb",
+      "slug": "kobalt-torpedo-level",
+      "name": "Torpedo Level",
+      "brand": "Kobalt",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "level",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          47
+        ],
+        "sourceLabel": [
+          "Torpedo Level",
+          "Kobalt"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c79bd12b-5b9a-508b-991c-805160c7e833",
+      "slug": "cutting-mat",
+      "name": "Cutting Mat",
+      "brand": null,
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "cutting-mat",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "textiles"
+      ],
+      "materials": [
+        "paper",
+        "fabric"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          48
+        ],
+        "sourceLabel": [
+          "Cutting Mat",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "951535e7-1319-5ecf-a2df-95537654285c",
+      "slug": "led-headlamp",
+      "name": "LED Headlamp",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "light",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "lighting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          49
+        ],
+        "sourceLabel": [
+          "LED Headlamp",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "47b961fc-24a8-5dac-8712-06996b525c39",
+      "slug": "work-gloves",
+      "name": "Work Gloves",
+      "brand": null,
+      "model": null,
+      "kind": "safety",
+      "typeKey": "gloves",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [],
+      "metadata": {
+        "sourceRows": [
+          50
+        ],
+        "sourceLabel": [
+          "Work Gloves",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a749db9d-cb60-5e10-85b1-ba5fe41c36b3",
+      "slug": "omniflex-fishing-line",
+      "name": "Fishing Line",
+      "brand": "Omniflex",
+      "model": null,
+      "kind": "component",
+      "typeKey": "fishing-line",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          51
+        ],
+        "sourceLabel": [
+          "Fishing Line",
+          "Omniflex"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "ff6c1d00-b47f-51cb-9a12-d6d6e915c9e5",
+      "slug": "tape-rolls",
+      "name": "Tape Rolls",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "tape",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          52
+        ],
+        "sourceLabel": [
+          "Tape Rolls",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "59513fea-6403-5159-81ed-586bfdd94905",
+      "slug": "safety-glasses",
+      "name": "Safety Glasses",
+      "brand": null,
+      "model": null,
+      "kind": "safety",
+      "typeKey": "safety-glasses",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [],
+      "metadata": {
+        "sourceRows": [
+          53
+        ],
+        "sourceLabel": [
+          "Safety Glasses",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e476b7e8-c414-519c-9c34-f34c3e4c9bbf",
+      "slug": "procell-keychain-multiusb-charging-cable",
+      "name": "Multi‑USB Charging Cable",
+      "brand": "Procell",
+      "model": "keychain",
+      "kind": "utility",
+      "typeKey": "usb-cable",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "charging"
+      ],
+      "metadata": {
+        "sourceRows": [
+          54
+        ],
+        "sourceLabel": [
+          "Multi‑USB Charging Cable",
+          "Procell keychain"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b23c4243-c931-5ca9-b26a-323f00fea90f",
+      "slug": "black-decker-4-5a-variable-speed-jigsaw-corded",
+      "name": "Jigsaw (corded)",
+      "brand": "Black+Decker",
+      "model": "4.5A Variable Speed",
+      "kind": "tool",
+      "typeKey": "jigsaw",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [
+        "jig saw"
+      ],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          55
+        ],
+        "sourceLabel": [
+          "Jigsaw (corded)",
+          "Black+Decker 4.5A Variable Speed"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e15be6ef-9f1f-55da-8d90-8d3f320d2174",
+      "slug": "skil-pwr-core-12-jigsaw-cordless",
+      "name": "Jigsaw (cordless)",
+      "brand": "SKIL",
+      "model": "PWR CORE 12",
+      "kind": "tool",
+      "typeKey": "jigsaw",
+      "description": "Material use depends on the correct accessory and the tool’s limits. Confirm the setup before use.",
+      "aliases": [
+        "jig saw"
+      ],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          56
+        ],
+        "sourceLabel": [
+          "Jigsaw (cordless)",
+          "SKIL PWR CORE 12"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "740cc72f-86b3-5bcc-af47-342b46916949",
+      "slug": "spear-jackson-predator-12-15-ppi-tenon-saw",
+      "name": "Tenon Saw",
+      "brand": "Spear & Jackson",
+      "model": "Predator 12\" 15 PPI",
+      "kind": "tool",
+      "typeKey": "handsaw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          57
+        ],
+        "sourceLabel": [
+          "Tenon Saw",
+          "Spear & Jackson Predator 12\" 15 PPI"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "164354c9-78e8-5fe2-ac7f-91a418ba7a7f",
+      "slug": "miter-box",
+      "name": "Miter Box",
+      "brand": null,
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "miter-box",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          58
+        ],
+        "sourceLabel": [
+          "Miter Box",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b3769af4-202b-5d8d-a6c5-4c3e0840abd6",
+      "slug": "empire-2990-rafter-speed-square",
+      "name": "Rafter / Speed Square",
+      "brand": null,
+      "model": "Empire 2990",
+      "kind": "tool",
+      "typeKey": "square",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          59
+        ],
+        "sourceLabel": [
+          "Rafter / Speed Square",
+          "Empire 2990"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a890e536-4ab2-5f5c-af44-4d6a99839353",
+      "slug": "horusdy-bar-clamps-quickrelease",
+      "name": "Bar Clamps (quick‑release)",
+      "brand": "Horusdy",
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "clamp",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "holding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          60
+        ],
+        "sourceLabel": [
+          "Bar Clamps (quick‑release)",
+          "Horusdy"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "945b02f0-b537-50b7-bf73-b619470fd5f0",
+      "slug": "horusdy-spring-clamps",
+      "name": "Spring Clamps",
+      "brand": "Horusdy",
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "clamp",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "holding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          61
+        ],
+        "sourceLabel": [
+          "Spring Clamps",
+          "Horusdy"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9c7412f2-6465-5f23-a119-83d61c16d40b",
+      "slug": "dewalt-drill-bit-set-titanium-gold",
+      "name": "Drill Bit Set (titanium/gold)",
+      "brand": "DeWalt",
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "drill-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          62
+        ],
+        "sourceLabel": [
+          "Drill Bit Set (titanium/gold)",
+          "DeWalt"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b5cf9613-ee87-5854-8221-0ea26e27f58c",
+      "slug": "dewalt-drill-bit-set-black-oxide",
+      "name": "Drill Bit Set (black oxide)",
+      "brand": "DeWalt",
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "drill-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          63
+        ],
+        "sourceLabel": [
+          "Drill Bit Set (black oxide)",
+          "DeWalt"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9f840be2-3ecb-567c-8a61-f83118c5c924",
+      "slug": "bosch-lbhxs7u-masonry-drill-bit-set-7-pc",
+      "name": "Masonry Drill Bit Set, 7 pc",
+      "brand": "Bosch",
+      "model": "LBHXS7U",
+      "kind": "accessory",
+      "typeKey": "drill-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [
+        "masonry"
+      ],
+      "processes": [
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          64
+        ],
+        "sourceLabel": [
+          "Masonry Drill Bit Set, 7 pc",
+          "Bosch LBHXS7U"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c471fffd-3f59-5617-a1e4-cc3789269ecf",
+      "slug": "router-bit-set-straight-roundover-roman-ogee",
+      "name": "Router Bit Set (straight, roundover, Roman ogee)",
+      "brand": null,
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "router-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "routing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          65
+        ],
+        "sourceLabel": [
+          "Router Bit Set (straight, roundover, Roman ogee)",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6fb02eea-5773-5ed4-875c-bf5134639868",
+      "slug": "tape-dispenser",
+      "name": "Tape Dispenser",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "tape-dispenser",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          66
+        ],
+        "sourceLabel": [
+          "Tape Dispenser",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a1686341-b49d-5bb2-a2a6-37abdad99f43",
+      "slug": "electric-stapler",
+      "name": "Electric Stapler",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "stapler",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          67
+        ],
+        "sourceLabel": [
+          "Electric Stapler",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "780c00d0-9777-5a5d-956b-54bc412f7b1c",
+      "slug": "electric-pencil-sharpener",
+      "name": "Electric Pencil Sharpener",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "pencil-sharpener",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "sharpening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          68
+        ],
+        "sourceLabel": [
+          "Electric Pencil Sharpener",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "8ed246a4-3948-5a27-b684-b0dbe98c3097",
+      "slug": "panavise-pcb-vise",
+      "name": "PCB Vise",
+      "brand": "PanaVise",
+      "model": null,
+      "kind": "fixture",
+      "typeKey": "vise",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "holding",
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          69
+        ],
+        "sourceLabel": [
+          "PCB Vise",
+          "PanaVise"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b67c90df-d16d-5c0e-91b3-adcfe92d38df",
+      "slug": "ginsco-heat-shrink-tubing-kit-580-pc-2-1",
+      "name": "Heat Shrink Tubing Kit, 580 pc 2:1",
+      "brand": "Ginsco",
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "heat-shrink",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "insulating"
+      ],
+      "metadata": {
+        "sourceRows": [
+          70
+        ],
+        "sourceLabel": [
+          "Heat Shrink Tubing Kit, 580 pc 2:1",
+          "Ginsco"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "411f9db2-bafd-5429-9eca-071d01f7066c",
+      "slug": "bojack-ceramic-capacitor-kit",
+      "name": "Ceramic Capacitor Kit",
+      "brand": "Bojack",
+      "model": null,
+      "kind": "component",
+      "typeKey": "capacitor",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          71
+        ],
+        "sourceLabel": [
+          "Ceramic Capacitor Kit",
+          "Bojack"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e5eaac9b-af6b-5ec3-8e38-022d3e59acf0",
+      "slug": "wire-connector-terminal-kit",
+      "name": "Wire Connector / Terminal Kit",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "terminal",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          72
+        ],
+        "sourceLabel": [
+          "Wire Connector / Terminal Kit",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "ac639812-56c3-5e1a-8d82-1f104f88be3e",
+      "slug": "elegoo-solderless-breadboard",
+      "name": "Solderless Breadboard",
+      "brand": "Elegoo",
+      "model": null,
+      "kind": "component",
+      "typeKey": "breadboard",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          73
+        ],
+        "sourceLabel": [
+          "Solderless Breadboard",
+          "Elegoo"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "58d29d45-5e08-5b03-a426-82b0f22bc444",
+      "slug": "18650-battery-charger-single-slot",
+      "name": "18650 Battery Charger (single slot)",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "battery-charger",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "charging"
+      ],
+      "metadata": {
+        "sourceRows": [
+          74
+        ],
+        "sourceLabel": [
+          "18650 Battery Charger (single slot)",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "55018176-d98b-5682-9bcb-cb7cb688b677",
+      "slug": "3m-sandpaper-sanding-sheets",
+      "name": "Sandpaper / Sanding Sheets",
+      "brand": "3M",
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "sandpaper",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "sanding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          75
+        ],
+        "sourceLabel": [
+          "Sandpaper / Sanding Sheets",
+          "3M"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "404523d7-0ba3-5d4f-814b-d888a11f07e7",
+      "slug": "3m-hand-sanding-block",
+      "name": "Hand Sanding Block",
+      "brand": "3M",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "sanding-block",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "sanding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          76
+        ],
+        "sourceLabel": [
+          "Hand Sanding Block",
+          "3M"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "f9b03e91-e74f-5b9c-8e60-46db4cd83b5c",
+      "slug": "sanding-files",
+      "name": "Sanding Files",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "file",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "sanding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          77
+        ],
+        "sourceLabel": [
+          "Sanding Files",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "299a8c47-0d72-5c2d-b464-ca16bc607d51",
+      "slug": "rtv-silicone-gasket-maker",
+      "name": "RTV Silicone Gasket Maker",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "sealant",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "sealing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          78
+        ],
+        "sourceLabel": [
+          "RTV Silicone Gasket Maker",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fe6b9fe8-4936-528c-bd95-99c9c85ed852",
+      "slug": "nashua-322-multipurpose-foil-tape",
+      "name": "Foil Tape",
+      "brand": "Nashua",
+      "model": "322 Multi‑Purpose",
+      "kind": "consumable",
+      "typeKey": "foil-tape",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "sealing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          79
+        ],
+        "sourceLabel": [
+          "Foil Tape",
+          "Nashua 322 Multi‑Purpose"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "cb72e4f4-528c-5f74-ada7-426566b9525c",
+      "slug": "masking-tape",
+      "name": "Masking Tape",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "tape",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          80
+        ],
+        "sourceLabel": [
+          "Masking Tape",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "682abde4-913d-531d-926e-485d15dfcebd",
+      "slug": "velcro-hook-loop",
+      "name": "Hook & Loop",
+      "brand": "Velcro",
+      "model": null,
+      "kind": "component",
+      "typeKey": "hook-loop",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "textiles",
+        "crafting"
+      ],
+      "materials": [
+        "fabric"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          81
+        ],
+        "sourceLabel": [
+          "Hook & Loop",
+          "Velcro"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "21694c62-b16f-5370-92bc-97d5c731f7de",
+      "slug": "sinopuren-laminator-with-paper-trimmer",
+      "name": "Laminator with Paper Trimmer",
+      "brand": "Sinopuren",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "laminator",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "laminating",
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          82
+        ],
+        "sourceLabel": [
+          "Laminator with Paper Trimmer",
+          "Sinopuren"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d5a4c707-3ffe-55a4-8736-be9e1f7ec825",
+      "slug": "firbon-paper-trimmer",
+      "name": "Paper Trimmer",
+      "brand": "Firbon",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "paper-trimmer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          83
+        ],
+        "sourceLabel": [
+          "Paper Trimmer",
+          "Firbon"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c7fc0692-de5b-5461-a99a-72d5d102bb10",
+      "slug": "stapler",
+      "name": "Stapler",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "stapler",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          84
+        ],
+        "sourceLabel": [
+          "Stapler",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e71277ac-47c0-59ca-ba55-46be8b907ad8",
+      "slug": "notebooks",
+      "name": "Notebooks",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "stationery",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "writing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          85
+        ],
+        "sourceLabel": [
+          "Notebooks",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "f5e83755-831a-5378-831f-f4de13e7ab02",
+      "slug": "notepads",
+      "name": "Notepads",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "stationery",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "paper"
+      ],
+      "processes": [
+        "writing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          86
+        ],
+        "sourceLabel": [
+          "Notepads",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "40ba27f8-2dd5-5b49-af21-bf0a2f3efead",
+      "slug": "usb-flash-drives",
+      "name": "USB Flash Drives",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "usb-drive",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "data-storage"
+      ],
+      "metadata": {
+        "sourceRows": [
+          87
+        ],
+        "sourceLabel": [
+          "USB Flash Drives",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e79391ae-b296-5027-ab99-e54b8869cae9",
+      "slug": "ttap-wire-connector-kit",
+      "name": "T‑Tap Wire Connector Kit",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "terminal",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          88
+        ],
+        "sourceLabel": [
+          "T‑Tap Wire Connector Kit",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c5fe4633-8bee-5d27-9274-f1dc085bcd37",
+      "slug": "resistor-assortment-kit",
+      "name": "Resistor Assortment Kit",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "resistor",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          89
+        ],
+        "sourceLabel": [
+          "Resistor Assortment Kit",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "62342a63-af95-57b6-acf4-9371f25f1b38",
+      "slug": "huarew-diode-assortment-kit",
+      "name": "Diode Assortment Kit",
+      "brand": "Huarew",
+      "model": null,
+      "kind": "component",
+      "typeKey": "diode",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          90
+        ],
+        "sourceLabel": [
+          "Diode Assortment Kit",
+          "Huarew"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "734065a2-5012-5575-b01d-6ebe9292c73f",
+      "slug": "digikey-carbon-film-resistors",
+      "name": "Carbon Film Resistors",
+      "brand": "Digi‑Key",
+      "model": null,
+      "kind": "component",
+      "typeKey": "resistor",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          91
+        ],
+        "sourceLabel": [
+          "Carbon Film Resistors",
+          "Digi‑Key"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "bfa4806d-0b6c-5129-b826-c09f51b362c4",
+      "slug": "utilitech-terminal-kit",
+      "name": "Terminal Kit",
+      "brand": "Utilitech",
+      "model": null,
+      "kind": "component",
+      "typeKey": "terminal",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          92
+        ],
+        "sourceLabel": [
+          "Terminal Kit",
+          "Utilitech"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "f6fb9f24-1071-519c-a598-7cc369523bf4",
+      "slug": "prototype-perfboards",
+      "name": "Prototype Perfboards",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "perfboard",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "prototyping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          93
+        ],
+        "sourceLabel": [
+          "Prototype Perfboards",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "c8d95d7a-e73d-54a4-a289-5e58fffc43ef",
+      "slug": "nickel-strip-roll",
+      "name": "Nickel Strip Roll",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "nickel-strip",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "welding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          94
+        ],
+        "sourceLabel": [
+          "Nickel Strip Roll",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fd563ee5-fa00-5735-a178-cec5aeb49259",
+      "slug": "wago-221-lever-wire-connectors",
+      "name": "Lever Wire Connectors",
+      "brand": "WAGO",
+      "model": "221",
+      "kind": "component",
+      "typeKey": "wire-connector",
+      "description": "Connector variants and ratings have not been recorded. Check the connector before use.",
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          95,
+          138
+        ],
+        "sourceLabel": [
+          "Lever Wire Connectors",
+          "WAGO 221"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fb3773d3-4d62-570c-8d54-ebf0d838edaf",
+      "slug": "flux-paste",
+      "name": "Flux Paste",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "flux",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          96
+        ],
+        "sourceLabel": [
+          "Flux Paste",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "25067399-443c-5fd9-9bc2-061cfe4dd433",
+      "slug": "plugin-power-meter",
+      "name": "Plug‑In Power Meter",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "power-meter",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          97
+        ],
+        "sourceLabel": [
+          "Plug‑In Power Meter",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6b2d3c4a-399d-518a-8f12-04425db4d5f5",
+      "slug": "digital-kitchen-scale",
+      "name": "Digital Kitchen Scale",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "scale",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          98
+        ],
+        "sourceLabel": [
+          "Digital Kitchen Scale",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "8439450a-9c5f-558b-be45-6f7ff10eadf4",
+      "slug": "wagner-heat-gun",
+      "name": "Heat Gun",
+      "brand": "Wagner",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "heat-gun",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics",
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "heating"
+      ],
+      "metadata": {
+        "sourceRows": [
+          99
+        ],
+        "sourceLabel": [
+          "Heat Gun",
+          "Wagner"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "5a87c2d9-8003-5257-bb6e-895fd03449ba",
+      "slug": "uline-h293-impulse-sealer",
+      "name": "Impulse Sealer",
+      "brand": "Uline",
+      "model": "H‑293",
+      "kind": "tool",
+      "typeKey": "impulse-sealer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [
+        "plastic"
+      ],
+      "processes": [
+        "sealing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          100
+        ],
+        "sourceLabel": [
+          "Impulse Sealer",
+          "Uline H‑293"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d354e9eb-64b9-5881-b976-6f7a4ccee6d3",
+      "slug": "airbrush-gravity-feed-dual-action",
+      "name": "Airbrush (gravity feed, dual action)",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "airbrush",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "painting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          101
+        ],
+        "sourceLabel": [
+          "Airbrush (gravity feed, dual action)",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "77e5bf9a-43bf-5ddd-8575-a149298f56a9",
+      "slug": "rotary-tool-accessory-kit",
+      "name": "Rotary Tool Accessory Kit",
+      "brand": null,
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "rotary-accessory",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking",
+        "crafting"
+      ],
+      "materials": [
+        "wood",
+        "metal",
+        "plastic"
+      ],
+      "processes": [
+        "cutting",
+        "sanding",
+        "grinding",
+        "polishing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          102
+        ],
+        "sourceLabel": [
+          "Rotary Tool Accessory Kit",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "eac5b531-cc15-5383-b810-e0c33d85726c",
+      "slug": "claw-hammer",
+      "name": "Claw Hammer",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hammer",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          103
+        ],
+        "sourceLabel": [
+          "Claw Hammer",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "75889845-ef91-5be9-ade2-0d6f2e8f80ba",
+      "slug": "staple-gun",
+      "name": "Staple Gun",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "staple-gun",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "textiles"
+      ],
+      "materials": [
+        "wood",
+        "fabric"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          104
+        ],
+        "sourceLabel": [
+          "Staple Gun",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "7efe331e-37a7-5d47-a17b-93f6b0609684",
+      "slug": "hex-key-set",
+      "name": "Hex Key Set",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "hex-key",
+      "description": null,
+      "aliases": [
+        "allen key",
+        "allen wrench",
+        "hex wrench"
+      ],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          105
+        ],
+        "sourceLabel": [
+          "Hex Key Set",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "12b83a7f-6bff-5e8f-8362-8954177e014b",
+      "slug": "paint-roller-frame-metal-tray",
+      "name": "Paint Roller Frame + Metal Tray",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "paint-roller",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting"
+      ],
+      "materials": [],
+      "processes": [
+        "painting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          106
+        ],
+        "sourceLabel": [
+          "Paint Roller Frame + Metal Tray",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "a9906f96-2034-5a98-85cc-c31bd27c9859",
+      "slug": "hand-air-pump",
+      "name": "Hand Air Pump",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "air-pump",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "inflating"
+      ],
+      "metadata": {
+        "sourceRows": [
+          107
+        ],
+        "sourceLabel": [
+          "Hand Air Pump",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "169eb2b0-4e50-5e3c-8a96-501ed8eb8d79",
+      "slug": "funnel-set",
+      "name": "Funnel Set",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "funnel",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "pouring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          108
+        ],
+        "sourceLabel": [
+          "Funnel Set",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "bc8253d9-5897-5847-9b4f-a1edc996e027",
+      "slug": "bosch-prometal-tp005-jigsaw-blade-set-5-pc-metal-cutting",
+      "name": "Jigsaw Blade Set (5 pc, metal cutting)",
+      "brand": "Bosch",
+      "model": "ProMetal TP005",
+      "kind": "accessory",
+      "typeKey": "jigsaw-blade",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "metalworking"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          109
+        ],
+        "sourceLabel": [
+          "Jigsaw Blade Set (5 pc, metal cutting)",
+          "Bosch ProMetal TP005"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d301150b-ea70-5f11-b202-d0b0b2c7bef1",
+      "slug": "zip-ties",
+      "name": "Zip Ties",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "zip-tie",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          110
+        ],
+        "sourceLabel": [
+          "Zip Ties",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "cdaa41f9-3c7f-557f-932f-baffd0e2f046",
+      "slug": "hose-clamps",
+      "name": "Hose Clamps",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "hose-clamp",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          111
+        ],
+        "sourceLabel": [
+          "Hose Clamps",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "0cd4bef0-db3e-5f1b-b759-31a80edef7d7",
+      "slug": "disposable-micro-applicators",
+      "name": "Disposable Micro Applicators",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "applicator",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "applying"
+      ],
+      "metadata": {
+        "sourceRows": [
+          112
+        ],
+        "sourceLabel": [
+          "Disposable Micro Applicators",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9f5ae10d-4483-5046-839b-264144184628",
+      "slug": "cordless-ratcheting-screwdriver",
+      "name": "Cordless Ratcheting Screwdriver",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "screwdriver",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          113
+        ],
+        "sourceLabel": [
+          "Cordless Ratcheting Screwdriver",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d1114ff3-63ea-5058-b4e3-8615c40a438e",
+      "slug": "hole-saw-kit",
+      "name": "Hole Saw Kit",
+      "brand": null,
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "hole-saw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [],
+      "processes": [
+        "cutting",
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          114
+        ],
+        "sourceLabel": [
+          "Hole Saw Kit",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d90c05c9-a7cf-57e6-b61a-16da38372cc3",
+      "slug": "hyper-tough-precision-bit-set-44-pc",
+      "name": "Precision Bit Set (44 pc)",
+      "brand": "Hyper Tough",
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "driver-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          115
+        ],
+        "sourceLabel": [
+          "Precision Bit Set (44 pc)",
+          "Hyper Tough"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "555f3fb8-a6c1-5728-86d0-30f4d3a0bcbe",
+      "slug": "torx-bit-set-t20t40",
+      "name": "Torx Bit Set (T20–T40)",
+      "brand": null,
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "driver-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          116
+        ],
+        "sourceLabel": [
+          "Torx Bit Set (T20–T40)",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6eb05647-a60a-551f-9265-47488e932168",
+      "slug": "milwaukee-shockwave-impact-driver-bit-set",
+      "name": "Impact Driver Bit Set",
+      "brand": "Milwaukee",
+      "model": "Shockwave",
+      "kind": "accessory",
+      "typeKey": "driver-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          117
+        ],
+        "sourceLabel": [
+          "Impact Driver Bit Set",
+          "Milwaukee Shockwave"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "e6120270-387c-5881-8ad2-468346089c72",
+      "slug": "craftsman-drill-bit-set-titanium-gold",
+      "name": "Drill Bit Set (titanium/gold)",
+      "brand": "Craftsman",
+      "model": null,
+      "kind": "accessory",
+      "typeKey": "drill-bit",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "woodworking",
+        "metalworking"
+      ],
+      "materials": [
+        "wood",
+        "metal"
+      ],
+      "processes": [
+        "drilling"
+      ],
+      "metadata": {
+        "sourceRows": [
+          118
+        ],
+        "sourceLabel": [
+          "Drill Bit Set (titanium/gold)",
+          "Craftsman"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "01cb7d66-6321-55ea-b1c9-ad4de0744bd5",
+      "slug": "toolant-orca-pliers-wrench",
+      "name": "Pliers Wrench",
+      "brand": "Toolant",
+      "model": "Orca",
+      "kind": "tool",
+      "typeKey": "wrench",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          119
+        ],
+        "sourceLabel": [
+          "Pliers Wrench",
+          "Toolant Orca"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b23050ce-c213-50fa-aa5f-05ce9cb4838e",
+      "slug": "pliers",
+      "name": "Pliers",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "pliers",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "holding"
+      ],
+      "metadata": {
+        "sourceRows": [
+          120
+        ],
+        "sourceLabel": [
+          "Pliers",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "ba74c670-4716-5c81-911f-a093e96d4bd7",
+      "slug": "openend-wrenches",
+      "name": "Open‑End Wrenches",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "wrench",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          121
+        ],
+        "sourceLabel": [
+          "Open‑End Wrenches",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "79fdb3c6-bd38-5359-ad1f-a74698052780",
+      "slug": "wire-brushes",
+      "name": "Wire Brushes",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "wire-brush",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "metalworking"
+      ],
+      "materials": [
+        "metal"
+      ],
+      "processes": [
+        "cleaning"
+      ],
+      "metadata": {
+        "sourceRows": [
+          122
+        ],
+        "sourceLabel": [
+          "Wire Brushes",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "2ef9db9e-cbf3-5a4a-a61d-0832c1cb486f",
+      "slug": "screwdrivers",
+      "name": "Screwdrivers",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "screwdriver",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "electronics"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          123
+        ],
+        "sourceLabel": [
+          "Screwdrivers",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "5d5ac551-f349-50a9-8094-a9b6e9a8fa00",
+      "slug": "precision-tweezers-set",
+      "name": "Precision Tweezers Set",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "tweezers",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          124
+        ],
+        "sourceLabel": [
+          "Precision Tweezers Set",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d1effa18-72a8-5ce3-9f90-57b292236784",
+      "slug": "scissors",
+      "name": "Scissors",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "scissors",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "textiles",
+        "crafting"
+      ],
+      "materials": [
+        "fabric",
+        "paper"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          125
+        ],
+        "sourceLabel": [
+          "Scissors",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "bf7ed487-7c4d-5c76-ad11-2a942bdbf4bc",
+      "slug": "multitool",
+      "name": "Multi‑Tool",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "multi-tool",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "assembly"
+      ],
+      "metadata": {
+        "sourceRows": [
+          126
+        ],
+        "sourceLabel": [
+          "Multi‑Tool",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "f28c1dae-f6fd-5e98-8268-e9776a388e0a",
+      "slug": "utility-knife",
+      "name": "Utility Knife",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "utility-knife",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "general"
+      ],
+      "materials": [
+        "paper",
+        "foam"
+      ],
+      "processes": [
+        "cutting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          127
+        ],
+        "sourceLabel": [
+          "Utility Knife",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "878a1efe-0658-530d-86bd-c8bf0c52b9b2",
+      "slug": "suction-cup-lifter-dent-puller",
+      "name": "Suction Cup Lifter / Dent Puller",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "suction-lifter",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "lifting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          128
+        ],
+        "sourceLabel": [
+          "Suction Cup Lifter / Dent Puller",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d14868e6-bef3-52a4-853a-f0c35e08e477",
+      "slug": "desoldering-pump",
+      "name": "Desoldering Pump",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "desoldering-pump",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "desoldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          129
+        ],
+        "sourceLabel": [
+          "Desoldering Pump",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "bb62af36-c879-51a1-9c7f-b853f07b11aa",
+      "slug": "eclipse-rj45-crimp-tool",
+      "name": "RJ45 Crimp Tool",
+      "brand": "Eclipse",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "crimper",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "crimping"
+      ],
+      "metadata": {
+        "sourceRows": [
+          130
+        ],
+        "sourceLabel": [
+          "RJ45 Crimp Tool",
+          "Eclipse"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "564eb036-5ee5-586a-ae46-bc03876365d3",
+      "slug": "zircon-studsensor-a100-stud-finder",
+      "name": "Stud Finder",
+      "brand": "Zircon",
+      "model": "StudSensor A100",
+      "kind": "tool",
+      "typeKey": "stud-finder",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "inspection"
+      ],
+      "metadata": {
+        "sourceRows": [
+          131
+        ],
+        "sourceLabel": [
+          "Stud Finder",
+          "Zircon StudSensor A100"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "d3106e58-8390-58a6-ab2f-5e69c82fa04b",
+      "slug": "noncontact-voltage-tester",
+      "name": "Non‑Contact Voltage Tester",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "voltage-tester",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "testing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          132
+        ],
+        "sourceLabel": [
+          "Non‑Contact Voltage Tester",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "77bcba5f-90cf-5a7c-8e05-72b23848aafe",
+      "slug": "tape-measure",
+      "name": "Tape Measure",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "ruler",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          133
+        ],
+        "sourceLabel": [
+          "Tape Measure",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b71fe06f-bae1-590b-b690-0cf6515b493f",
+      "slug": "triangular-scale-ruler",
+      "name": "Triangular Scale Ruler",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "ruler",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          134
+        ],
+        "sourceLabel": [
+          "Triangular Scale Ruler",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b5841ed3-36bd-54a5-bb71-f04cb40e96b6",
+      "slug": "steel-ruler",
+      "name": "Steel Ruler",
+      "brand": null,
+      "model": null,
+      "kind": "tool",
+      "typeKey": "ruler",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "measuring"
+      ],
+      "metadata": {
+        "sourceRows": [
+          135
+        ],
+        "sourceLabel": [
+          "Steel Ruler",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "00629406-7fd0-511d-afa1-324d65faa143",
+      "slug": "bernzomatic-butane-soldering-iron",
+      "name": "Butane Soldering Iron",
+      "brand": "Bernzomatic",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "soldering-iron",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "electronics"
+      ],
+      "processes": [
+        "soldering"
+      ],
+      "metadata": {
+        "sourceRows": [
+          136
+        ],
+        "sourceLabel": [
+          "Butane Soldering Iron",
+          "Bernzomatic"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "6877566d-0ffd-530c-a317-444204ea239e",
+      "slug": "wirefy-heat-shrink-kit",
+      "name": "Heat Shrink Kit",
+      "brand": "Wirefy",
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "heat-shrink",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "insulating"
+      ],
+      "metadata": {
+        "sourceRows": [
+          137
+        ],
+        "sourceLabel": [
+          "Heat Shrink Kit",
+          "Wirefy"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "27bdd08a-2d3a-57c7-83e4-c70bcaad1da3",
+      "slug": "wire-nuts",
+      "name": "Wire Nuts",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "terminal",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          139
+        ],
+        "sourceLabel": [
+          "Wire Nuts",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "35938587-b8c7-58a0-bad1-d0e39e4c3935",
+      "slug": "pluggable-terminal-blocks",
+      "name": "Pluggable Terminal Blocks",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "terminal",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          140
+        ],
+        "sourceLabel": [
+          "Pluggable Terminal Blocks",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "ba175d6d-c2b6-50b2-8eca-1b21c577e290",
+      "slug": "rj45-keystone-jacks-connectors",
+      "name": "RJ45 Keystone Jacks + Connectors",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "network-connector",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "electronics"
+      ],
+      "materials": [
+        "wire"
+      ],
+      "processes": [
+        "connecting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          141
+        ],
+        "sourceLabel": [
+          "RJ45 Keystone Jacks + Connectors",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "dd859ae3-4652-5547-bba5-607708ba33fe",
+      "slug": "gorilla-hot-glue-gun",
+      "name": "Hot Glue Gun",
+      "brand": "Gorilla",
+      "model": null,
+      "kind": "tool",
+      "typeKey": "glue-gun",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "woodworking"
+      ],
+      "materials": [],
+      "processes": [
+        "gluing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          142
+        ],
+        "sourceLabel": [
+          "Hot Glue Gun",
+          "Gorilla"
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "b191063d-2869-5084-af33-54abc32e8542",
+      "slug": "super-glue",
+      "name": "Super Glue",
+      "brand": null,
+      "model": null,
+      "kind": "consumable",
+      "typeKey": "glue",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "crafting",
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "gluing"
+      ],
+      "metadata": {
+        "sourceRows": [
+          143
+        ],
+        "sourceLabel": [
+          "Super Glue",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "3452950f-3867-5666-a5a7-eaf84d34737d",
+      "slug": "drywall-screws",
+      "name": "Drywall Screws",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "screw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          144
+        ],
+        "sourceLabel": [
+          "Drywall Screws",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "1867dc2d-efa6-5319-8488-1fbdaff6305c",
+      "slug": "construction-screws",
+      "name": "Construction Screws",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "screw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          145
+        ],
+        "sourceLabel": [
+          "Construction Screws",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "9efc1fb1-d1fd-5938-875d-f63e18d40c67",
+      "slug": "hex-washer-head-neoprene-screws",
+      "name": "Hex Washer Head Neoprene Screws",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "screw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          146
+        ],
+        "sourceLabel": [
+          "Hex Washer Head Neoprene Screws",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "06447945-16de-5ae1-ade6-0aba156dccd7",
+      "slug": "premium-exterior-wood-screws",
+      "name": "Premium Exterior Wood Screws",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "screw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general",
+        "woodworking"
+      ],
+      "materials": [
+        "wood"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          147
+        ],
+        "sourceLabel": [
+          "Premium Exterior Wood Screws",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "1b863ba6-279e-5a08-b9c8-14ff167f6325",
+      "slug": "concrete-screws",
+      "name": "Concrete Screws",
+      "brand": null,
+      "model": null,
+      "kind": "component",
+      "typeKey": "screw",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [
+        "masonry"
+      ],
+      "processes": [
+        "fastening"
+      ],
+      "metadata": {
+        "sourceRows": [
+          148
+        ],
+        "sourceLabel": [
+          "Concrete Screws",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "fd24a350-a70a-5233-8a49-ae68becc4aea",
+      "slug": "flashlight",
+      "name": "Flashlight",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "light",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "lighting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          149
+        ],
+        "sourceLabel": [
+          "Flashlight",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    },
+    {
+      "id": "211642b7-563d-5db9-bb3e-c57cda5e2d80",
+      "slug": "lighters",
+      "name": "Lighters",
+      "brand": null,
+      "model": null,
+      "kind": "utility",
+      "typeKey": "lighter",
+      "description": null,
+      "aliases": [],
+      "categories": [
+        "general"
+      ],
+      "materials": [],
+      "processes": [
+        "igniting"
+      ],
+      "metadata": {
+        "sourceRows": [
+          150
+        ],
+        "sourceLabel": [
+          "Lighters",
+          ""
+        ],
+        "classificationStatus": "provisional"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "key": "3d-printing",
+      "label": "3D Printing",
+      "description": "Printers, resin processing & forming"
+    },
+    {
+      "key": "laser-cutting",
+      "label": "Laser Cutting",
+      "description": "Laser tools & accessories"
+    },
+    {
+      "key": "woodworking",
+      "label": "Woodworking",
+      "description": "Sawing, routing & finishing"
+    },
+    {
+      "key": "metalworking",
+      "label": "Metalworking",
+      "description": "Cutting, drilling & shaping"
+    },
+    {
+      "key": "electronics",
+      "label": "Electronics",
+      "description": "Soldering, testing & circuit building"
+    },
+    {
+      "key": "textiles",
+      "label": "Textiles",
+      "description": "Sewing, fabric & finishing"
+    },
+    {
+      "key": "crafting",
+      "label": "Crafting",
+      "description": "Paper, adhesives & creative work"
+    },
+    {
+      "key": "general",
+      "label": "General Workshop",
+      "description": "Hand tools, measuring & essentials"
+    }
+  ],
+  "types": [
+    {
+      "key": "air-duster",
+      "label": "Air Duster"
+    },
+    {
+      "key": "air-pump",
+      "label": "Air Pump"
+    },
+    {
+      "key": "airbrush",
+      "label": "Airbrush"
+    },
+    {
+      "key": "angle-grinder",
+      "label": "Angle Grinder"
+    },
+    {
+      "key": "applicator",
+      "label": "Applicator"
+    },
+    {
+      "key": "battery-charger",
+      "label": "Battery Charger"
+    },
+    {
+      "key": "breadboard",
+      "label": "Breadboard"
+    },
+    {
+      "key": "caliper",
+      "label": "Caliper"
+    },
+    {
+      "key": "capacitor",
+      "label": "Capacitor"
+    },
+    {
+      "key": "clamp",
+      "label": "Clamp"
+    },
+    {
+      "key": "crimper",
+      "label": "Crimper"
+    },
+    {
+      "key": "cutting-machine",
+      "label": "Cutting Machine"
+    },
+    {
+      "key": "cutting-mat",
+      "label": "Cutting Mat"
+    },
+    {
+      "key": "desoldering-pump",
+      "label": "Desoldering Pump"
+    },
+    {
+      "key": "diode",
+      "label": "Diode"
+    },
+    {
+      "key": "drill-bit",
+      "label": "Drill Bit"
+    },
+    {
+      "key": "drill-driver",
+      "label": "Drill / Driver"
+    },
+    {
+      "key": "drill-press",
+      "label": "Drill Press"
+    },
+    {
+      "key": "driver-bit",
+      "label": "Driver Bit"
+    },
+    {
+      "key": "fdm-printer",
+      "label": "FDM 3D Printer"
+    },
+    {
+      "key": "filament-dryer",
+      "label": "Filament Dryer"
+    },
+    {
+      "key": "file",
+      "label": "File"
+    },
+    {
+      "key": "fish-tape",
+      "label": "Fish Tape"
+    },
+    {
+      "key": "fishing-line",
+      "label": "Fishing Line"
+    },
+    {
+      "key": "flush-cutter",
+      "label": "Flush Cutter"
+    },
+    {
+      "key": "flux",
+      "label": "Flux"
+    },
+    {
+      "key": "foil-tape",
+      "label": "Foil Tape"
+    },
+    {
+      "key": "fume-extractor",
+      "label": "Fume Extractor"
+    },
+    {
+      "key": "funnel",
+      "label": "Funnel"
+    },
+    {
+      "key": "gloves",
+      "label": "Work Gloves"
+    },
+    {
+      "key": "glue",
+      "label": "Glue"
+    },
+    {
+      "key": "glue-gun",
+      "label": "Glue Gun"
+    },
+    {
+      "key": "hammer",
+      "label": "Hammer"
+    },
+    {
+      "key": "handsaw",
+      "label": "Handsaw"
+    },
+    {
+      "key": "heat-gun",
+      "label": "Heat Gun"
+    },
+    {
+      "key": "heat-shrink",
+      "label": "Heat Shrink Tubing"
+    },
+    {
+      "key": "helping-hands",
+      "label": "Helping Hands"
+    },
+    {
+      "key": "hex-key",
+      "label": "Hex Key"
+    },
+    {
+      "key": "hobby-knife",
+      "label": "Hobby Knife"
+    },
+    {
+      "key": "hole-saw",
+      "label": "Hole Saw"
+    },
+    {
+      "key": "hook-loop",
+      "label": "Hook & Loop"
+    },
+    {
+      "key": "hose-clamp",
+      "label": "Hose Clamp"
+    },
+    {
+      "key": "impulse-sealer",
+      "label": "Impulse Sealer"
+    },
+    {
+      "key": "iron",
+      "label": "Iron"
+    },
+    {
+      "key": "jigsaw",
+      "label": "Jigsaw"
+    },
+    {
+      "key": "jigsaw-blade",
+      "label": "Jigsaw Blade"
+    },
+    {
+      "key": "laminator",
+      "label": "Laminator"
+    },
+    {
+      "key": "level",
+      "label": "Level"
+    },
+    {
+      "key": "light",
+      "label": "Light"
+    },
+    {
+      "key": "lighter",
+      "label": "Lighter"
+    },
+    {
+      "key": "mallet",
+      "label": "Mallet"
+    },
+    {
+      "key": "microscope",
+      "label": "Microscope"
+    },
+    {
+      "key": "miter-box",
+      "label": "Miter Box"
+    },
+    {
+      "key": "multi-tool",
+      "label": "Multi Tool"
+    },
+    {
+      "key": "multimeter",
+      "label": "Multimeter"
+    },
+    {
+      "key": "network-connector",
+      "label": "Network Connector"
+    },
+    {
+      "key": "nickel-strip",
+      "label": "Nickel Strip"
+    },
+    {
+      "key": "oscilloscope",
+      "label": "Oscilloscope"
+    },
+    {
+      "key": "paint-roller",
+      "label": "Paint Roller"
+    },
+    {
+      "key": "paper-trimmer",
+      "label": "Paper Trimmer"
+    },
+    {
+      "key": "pencil-sharpener",
+      "label": "Pencil Sharpener"
+    },
+    {
+      "key": "perfboard",
+      "label": "Perfboard"
+    },
+    {
+      "key": "pliers",
+      "label": "Pliers"
+    },
+    {
+      "key": "power-meter",
+      "label": "Power Meter"
+    },
+    {
+      "key": "power-supply",
+      "label": "Power Supply"
+    },
+    {
+      "key": "pressure-former",
+      "label": "Pressure Former"
+    },
+    {
+      "key": "probing-station",
+      "label": "Probing Station"
+    },
+    {
+      "key": "putty-knife",
+      "label": "Putty Knife"
+    },
+    {
+      "key": "reflow-oven",
+      "label": "Reflow Oven"
+    },
+    {
+      "key": "resin-printer",
+      "label": "Resin 3D Printer"
+    },
+    {
+      "key": "resistor",
+      "label": "Resistor"
+    },
+    {
+      "key": "rotary-accessory",
+      "label": "Rotary Tool Accessory"
+    },
+    {
+      "key": "rotary-tool",
+      "label": "Rotary Tool"
+    },
+    {
+      "key": "router",
+      "label": "Router"
+    },
+    {
+      "key": "router-bit",
+      "label": "Router Bit"
+    },
+    {
+      "key": "ruler",
+      "label": "Measuring Rule"
+    },
+    {
+      "key": "safety-glasses",
+      "label": "Safety Glasses"
+    },
+    {
+      "key": "sanding-block",
+      "label": "Sanding Block"
+    },
+    {
+      "key": "sandpaper",
+      "label": "Sandpaper"
+    },
+    {
+      "key": "scale",
+      "label": "Scale"
+    },
+    {
+      "key": "scissors",
+      "label": "Scissors"
+    },
+    {
+      "key": "screw",
+      "label": "Screw"
+    },
+    {
+      "key": "screwdriver",
+      "label": "Screwdriver"
+    },
+    {
+      "key": "sealant",
+      "label": "Sealant"
+    },
+    {
+      "key": "sewing-machine",
+      "label": "Sewing Machine"
+    },
+    {
+      "key": "soldering-iron",
+      "label": "Soldering Iron"
+    },
+    {
+      "key": "soldering-mat",
+      "label": "Soldering Mat"
+    },
+    {
+      "key": "soldering-station",
+      "label": "Soldering Station"
+    },
+    {
+      "key": "spot-welder",
+      "label": "Spot Welder"
+    },
+    {
+      "key": "square",
+      "label": "Square"
+    },
+    {
+      "key": "staple-gun",
+      "label": "Staple Gun"
+    },
+    {
+      "key": "stapler",
+      "label": "Stapler"
+    },
+    {
+      "key": "stationery",
+      "label": "Stationery"
+    },
+    {
+      "key": "stencil-printer",
+      "label": "Stencil Printer"
+    },
+    {
+      "key": "stud-finder",
+      "label": "Stud Finder"
+    },
+    {
+      "key": "suction-lifter",
+      "label": "Suction Lifter"
+    },
+    {
+      "key": "tape",
+      "label": "Tape"
+    },
+    {
+      "key": "tape-dispenser",
+      "label": "Tape Dispenser"
+    },
+    {
+      "key": "terminal",
+      "label": "Terminal"
+    },
+    {
+      "key": "toaster-oven",
+      "label": "Toaster Oven"
+    },
+    {
+      "key": "torx-key",
+      "label": "Torx Key"
+    },
+    {
+      "key": "tweezers",
+      "label": "Tweezers"
+    },
+    {
+      "key": "usb-cable",
+      "label": "Usb Cable"
+    },
+    {
+      "key": "usb-drive",
+      "label": "Usb Drive"
+    },
+    {
+      "key": "utility-knife",
+      "label": "Utility Knife"
+    },
+    {
+      "key": "vise",
+      "label": "Vise"
+    },
+    {
+      "key": "voltage-tester",
+      "label": "Voltage Tester"
+    },
+    {
+      "key": "wash-cure-station",
+      "label": "Wash Cure Station"
+    },
+    {
+      "key": "wire-brush",
+      "label": "Wire Brush"
+    },
+    {
+      "key": "wire-connector",
+      "label": "Wire Connector"
+    },
+    {
+      "key": "wire-stripper",
+      "label": "Wire Stripper"
+    },
+    {
+      "key": "wood-burner",
+      "label": "Lichtenberg Wood Burner"
+    },
+    {
+      "key": "wrench",
+      "label": "Wrench"
+    },
+    {
+      "key": "zip-tie",
+      "label": "Zip Tie"
+    }
+  ],
+  "facets": {
+    "materials": [
+      {
+        "key": "electronics",
+        "label": "Electronics"
+      },
+      {
+        "key": "fabric",
+        "label": "Fabric"
+      },
+      {
+        "key": "foam",
+        "label": "Foam"
+      },
+      {
+        "key": "masonry",
+        "label": "Masonry"
+      },
+      {
+        "key": "metal",
+        "label": "Metal"
+      },
+      {
+        "key": "paper",
+        "label": "Paper"
+      },
+      {
+        "key": "plastic",
+        "label": "Plastic"
+      },
+      {
+        "key": "resin",
+        "label": "Resin"
+      },
+      {
+        "key": "wire",
+        "label": "Wire"
+      },
+      {
+        "key": "wood",
+        "label": "Wood"
+      }
+    ],
+    "processes": [
+      {
+        "key": "3d-printing",
+        "label": "3D Printing"
+      },
+      {
+        "key": "applying",
+        "label": "Applying"
+      },
+      {
+        "key": "assembly",
+        "label": "Assembly"
+      },
+      {
+        "key": "charging",
+        "label": "Charging"
+      },
+      {
+        "key": "cleaning",
+        "label": "Cleaning"
+      },
+      {
+        "key": "connecting",
+        "label": "Connecting"
+      },
+      {
+        "key": "crimping",
+        "label": "Crimping"
+      },
+      {
+        "key": "curing",
+        "label": "Curing"
+      },
+      {
+        "key": "cutting",
+        "label": "Cutting"
+      },
+      {
+        "key": "data-storage",
+        "label": "Data Storage"
+      },
+      {
+        "key": "desoldering",
+        "label": "Desoldering"
+      },
+      {
+        "key": "drilling",
+        "label": "Drilling"
+      },
+      {
+        "key": "drying",
+        "label": "Drying"
+      },
+      {
+        "key": "engraving",
+        "label": "Engraving"
+      },
+      {
+        "key": "fastening",
+        "label": "Fastening"
+      },
+      {
+        "key": "forming",
+        "label": "Forming"
+      },
+      {
+        "key": "gluing",
+        "label": "Gluing"
+      },
+      {
+        "key": "grinding",
+        "label": "Grinding"
+      },
+      {
+        "key": "heating",
+        "label": "Heating"
+      },
+      {
+        "key": "holding",
+        "label": "Holding"
+      },
+      {
+        "key": "igniting",
+        "label": "Igniting"
+      },
+      {
+        "key": "inflating",
+        "label": "Inflating"
+      },
+      {
+        "key": "inspection",
+        "label": "Inspection"
+      },
+      {
+        "key": "insulating",
+        "label": "Insulating"
+      },
+      {
+        "key": "laminating",
+        "label": "Laminating"
+      },
+      {
+        "key": "lifting",
+        "label": "Lifting"
+      },
+      {
+        "key": "lighting",
+        "label": "Lighting"
+      },
+      {
+        "key": "measuring",
+        "label": "Measuring"
+      },
+      {
+        "key": "painting",
+        "label": "Painting"
+      },
+      {
+        "key": "polishing",
+        "label": "Polishing"
+      },
+      {
+        "key": "pouring",
+        "label": "Pouring"
+      },
+      {
+        "key": "powering",
+        "label": "Powering"
+      },
+      {
+        "key": "pressing",
+        "label": "Pressing"
+      },
+      {
+        "key": "prototyping",
+        "label": "Prototyping"
+      },
+      {
+        "key": "routing",
+        "label": "Routing"
+      },
+      {
+        "key": "sanding",
+        "label": "Sanding"
+      },
+      {
+        "key": "sealing",
+        "label": "Sealing"
+      },
+      {
+        "key": "sewing",
+        "label": "Sewing"
+      },
+      {
+        "key": "sharpening",
+        "label": "Sharpening"
+      },
+      {
+        "key": "soldering",
+        "label": "Soldering"
+      },
+      {
+        "key": "spreading",
+        "label": "Spreading"
+      },
+      {
+        "key": "stripping",
+        "label": "Stripping"
+      },
+      {
+        "key": "testing",
+        "label": "Testing"
+      },
+      {
+        "key": "washing",
+        "label": "Washing"
+      },
+      {
+        "key": "welding",
+        "label": "Welding"
+      },
+      {
+        "key": "wire-routing",
+        "label": "Wire Routing"
+      },
+      {
+        "key": "wood-burning",
+        "label": "Wood Burning"
+      },
+      {
+        "key": "writing",
+        "label": "Writing"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "id": "d50faa17-9fd8-57ca-9465-08c9b626a5c3",
+      "sourceItemId": "77e5bf9a-43bf-5ddd-8575-a149298f56a9",
+      "targetTypeKey": "rotary-tool",
+      "verification": "unverified",
+      "notes": "Check shank size, speed rating, and the intended use of each attachment."
+    },
+    {
+      "id": "df0c7eff-21ce-5c36-bde1-534f257724b0",
+      "sourceItemId": "bc8253d9-5897-5847-9b4f-a1edc996e027",
+      "targetTypeKey": "jigsaw",
+      "verification": "unverified",
+      "notes": "Check blade shank and the jigsaw manufacturer’s requirements."
+    },
+    {
+      "id": "e37dc85a-95f2-5ab3-8e5c-2a7f1cb23601",
+      "sourceItemId": "9c7412f2-6465-5f23-a119-83d61c16d40b",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "f1180dc2-19ac-5f96-a381-7575d59054c0",
+      "sourceItemId": "9c7412f2-6465-5f23-a119-83d61c16d40b",
+      "targetTypeKey": "drill-press",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "2847d958-1d67-5715-bbf7-b8fd9cf418ab",
+      "sourceItemId": "b5cf9613-ee87-5854-8221-0ea26e27f58c",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "405fcfad-3f21-5d8e-b56d-a0b8ee8acf40",
+      "sourceItemId": "b5cf9613-ee87-5854-8221-0ea26e27f58c",
+      "targetTypeKey": "drill-press",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "b2e3f9be-6054-520c-a643-56f7a1974ca3",
+      "sourceItemId": "9f840be2-3ecb-567c-8a61-f83118c5c924",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Confirm a suitable drill and masonry drilling mode."
+    },
+    {
+      "id": "ead46c6e-adf8-597a-87f8-2cc98b1b6d72",
+      "sourceItemId": "e6120270-387c-5881-8ad2-468346089c72",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "2e92a09a-49f0-5ef7-90ae-d5dc2b52cd3f",
+      "sourceItemId": "e6120270-387c-5881-8ad2-468346089c72",
+      "targetTypeKey": "drill-press",
+      "verification": "unverified",
+      "notes": "Check bit diameter, chuck capacity, and material suitability."
+    },
+    {
+      "id": "96645cc3-8730-5878-9f45-c0b17322a7c9",
+      "sourceItemId": "c471fffd-3f59-5617-a1e4-cc3789269ecf",
+      "targetTypeKey": "router",
+      "verification": "unverified",
+      "notes": "Confirm bit shank diameter and router speed limits."
+    },
+    {
+      "id": "18543bb6-1fd1-5129-946b-eda0c30a6fc2",
+      "sourceItemId": "d1114ff3-63ea-5058-b4e3-8615c40a438e",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Check arbor, chuck capacity, and speed limits."
+    },
+    {
+      "id": "040123c1-981f-5bb5-8528-394284c8fe34",
+      "sourceItemId": "d1114ff3-63ea-5058-b4e3-8615c40a438e",
+      "targetTypeKey": "drill-press",
+      "verification": "unverified",
+      "notes": "Check arbor, chuck capacity, and speed limits."
+    },
+    {
+      "id": "6a67b59c-aab8-54a5-9ef7-716386953a8e",
+      "sourceItemId": "d90c05c9-a7cf-57e6-b61a-16da38372cc3",
+      "targetTypeKey": "screwdriver",
+      "verification": "unverified",
+      "notes": "Check holder interface."
+    },
+    {
+      "id": "a0658a56-d7a6-5ae3-a961-520f93ac98cb",
+      "sourceItemId": "555f3fb8-a6c1-5728-86d0-30f4d3a0bcbe",
+      "targetTypeKey": "screwdriver",
+      "verification": "unverified",
+      "notes": "Check holder interface."
+    },
+    {
+      "id": "9de7872b-5acd-53b5-b79f-616c87aa3dae",
+      "sourceItemId": "6eb05647-a60a-551f-9265-47488e932168",
+      "targetTypeKey": "drill-driver",
+      "verification": "unverified",
+      "notes": "Check holder interface and tool requirements."
+    },
+    {
+      "id": "81cd496b-9a42-5397-932a-4d67640f864d",
+      "sourceItemId": "6eb05647-a60a-551f-9265-47488e932168",
+      "targetTypeKey": "screwdriver",
+      "verification": "unverified",
+      "notes": "Check holder interface and tool requirements."
+    }
+  ]
+}

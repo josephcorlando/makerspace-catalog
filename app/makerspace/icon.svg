@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 32 32"
+  aria-hidden="true"
+  focusable="false"
+>
+  <defs>
+    <polygon
+      id="brand-honeycomb-cell"
+      points="0,-4 3.464,-2 3.464,2 0,4 -3.464,2 -3.464,-2"
+    />
+  </defs>
+
+  <g
+    fill="var(--teal, #20b5b8)"
+    stroke="white"
+    strokeWidth="0.8"
+    strokeLinejoin="round"
+  >
+    <use href="#brand-honeycomb-cell" x="16" y="8" />
+    <use href="#brand-honeycomb-cell" x="22.928" y="12" />
+    <use href="#brand-honeycomb-cell" x="22.928" y="20" />
+    <use href="#brand-honeycomb-cell" x="16" y="24" />
+    <use href="#brand-honeycomb-cell" x="9.072" y="20" />
+    <use href="#brand-honeycomb-cell" x="9.072" y="12" />
+    <use
+      href="#brand-honeycomb-cell"
+      x="16"
+      y="16"
+      fill="var(--orange, #f58220)"
+    />
+  </g>
+</svg>
